@@ -1,10 +1,8 @@
 ## Hi there 👋
  I'm based in Offaly, Ireland.
- Currently a student at University of Galway
- Studying a Masters of Computer Science in Artificial Intelligence
+ Currently a student at University of Galway, studying a Masters of Computer Science in Artificial Intelligence
 
- I graduated from the University of Limerick in 2025
- My bachelor's was in Computer Science in Music, Media and Performance Technology.
+ I graduated from the University of Limerick in 2025. My bachelor's was in Computer Science in Music, Media and Performance Technology.
 
  I work for IGI Ltd. onsite at Siemens Digital Industries Software as a Business Project/Process System tester
  I'm on the Testing/Hypercare team for financial software testing.
