@@ -1,15 +1,14 @@
 ## Hi there 👋
  I'm based in Offaly, Ireland.
- Currently a student at University of Galway, studying a Masters of Computer Science in Artificial Intelligence
+ Currently a student at University of Galway, MSc. Computer Science in Artificial Intelligence
 
- I graduated from the University of Limerick in 2025. My bachelor's was in Computer Science in Music, Media and Performance Technology.
+ I graduated from the University of Limerick in 2025. I received a Second Class Honours, Grade 1 (2:1) in a Bachelor of Science, in Music, Media and Performance Technology.
 
- I work for IGI Ltd. onsite at Siemens Digital Industries Software as a Business Project/Process System tester
+ I work for Interesource Group (Ireland) Ltd. onsite at Siemens Digital Industries Software as a Business Project/Process System tester
  I'm on the Testing/Hypercare team for financial software testing.
 
- You can visit my website at https://www.gregoryshiel.com
+ You can visit my website at https://www.gregoryshiel.com - it's a better reflection of my portfolio!
 
- I admit I should have been using GH earlier in my career but I didn't have the need to.
  I'll be uploading a mix of low-code development and standard software development projects for portfolio purposes.
 
 
