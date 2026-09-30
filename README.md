@@ -1,6 +1,6 @@
 ## Hi there 👋
  I'm based in Offaly, Ireland.
- Currently a student at University of Galway, MSc. Computer Science in Artificial Intelligence
+ Currently a student at University of Galway, studying a MSc. Computer Science in Artificial Intelligence
 
  I graduated from the University of Limerick in 2025. I received a Second Class Honours, Grade 1 (2:1) in a Bachelor of Science, in Music, Media and Performance Technology.
 
