@@ -10,6 +10,7 @@
  You can visit my website at https://www.gregoryshiel.com - it's a better reflection of my portfolio!
 
  I'll be uploading a mix of low-code development and standard software development projects for portfolio purposes.
+ For transparency, I add 'ai-assisted-development' in the tags of projects that utilised any contribution from an AI Model. My criteria here is that the model has produced more than 1 line of code.
 
 
 <!--
