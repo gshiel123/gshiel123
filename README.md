@@ -4,10 +4,10 @@
 
  I graduated from the University of Limerick in 2025. I received a Second Class Honours, Grade 1 (2:1) in a Bachelor of Science, in Music, Media and Performance Technology.
 
- I work for Interesource Group (Ireland) Ltd. onsite at Siemens Digital Industries Software as a Business Project/Process System tester
+ I work at Siemens Digital Industries Software as a Business Project/Process System tester
  I'm on the Testing/Hypercare team for financial software testing.
 
- You can visit my website at https://www.gregoryshiel.com - it's a better reflection of my portfolio!
+ If you'd like to learn more about me you can visit my website at https://www.gregoryshiel.com 
 
  I'll be uploading a mix of low-code development and standard software development projects for portfolio purposes.
  For transparency, I add 'ai-assisted-development' in the tags of projects that utilised any contribution from an AI Model. My criteria here is that the model has produced more than 1 line of code.
