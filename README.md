@@ -4,7 +4,7 @@
 
  I graduated from the University of Limerick in 2025. I received a Second Class Honours, Grade 1 (2:1) in a Bachelor of Science, in Music, Media and Performance Technology.
 
- I work at Siemens Digital Industries Software as a Business Project/Process System tester
+ I work at Siemens Digital Industries Software as a Business Project, Process & System tester
  I'm on the Testing/Hypercare team for financial software testing.
 
  If you'd like to learn more about me you can visit my website at https://www.gregoryshiel.com 
